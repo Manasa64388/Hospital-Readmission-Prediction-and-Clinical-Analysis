@@ -37,7 +37,6 @@ The Random Forest model was evaluated using a 20% test split:
 ├── notebooks/              
 │   └── Analysis_Script.ipynb      # Python code for EDA and Random Forest model
 ├── dashboard/              
-│   ├── Clinical_Dashboard.pbix    # Power BI source file
 │   └── dashboard_preview.png      # High-resolution preview of the report
 ├── presentation/           
 │   └── Project_Summary.pptx       # Executive summary for stakeholders
